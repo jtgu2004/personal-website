@@ -161,7 +161,7 @@ export const WORK_SAMPLES: WorkSample[] = [
     title: 'Financial Model Software Company',
     description: 'Comprehensive financial model built for a software company including revenue projections and expense scaling.',
     type: 'EXCEL',
-    downloadUrl: './public/assets/Financial%20Model_Software%20Company.xlsx',
+    downloadUrl: '/assets/Financial%20Model_Software%20Company.xlsx',
     tags: ['Financial Modeling', 'Software', 'Excel']
   },
   {
@@ -169,7 +169,7 @@ export const WORK_SAMPLES: WorkSample[] = [
     title: 'Market Sizing Model',
     description: 'Macro-enabled market sizing analysis to estimate Total Addressable Market (TAM) and serviceability.',
     type: 'EXCEL', 
-    downloadUrl: './public/assets/Sample%20Market%20Sizing%20Model.xlsm',
+    downloadUrl: '/assets/Sample%20Market%20Sizing%20Model.xlsm',
     tags: ['Market Analysis', 'TAM', 'Strategy']
   },
   {
@@ -177,7 +177,7 @@ export const WORK_SAMPLES: WorkSample[] = [
     title: 'Pre-IPO DCF Valuation',
     description: 'Discounted Cash Flow (DCF) valuation model prepared for a healthcare company prior to IPO.',
     type: 'PDF',
-    downloadUrl: './public/assets/Pre-IPO%20DCF%20Valuation_Healthcare%20Company.pdf',
+    downloadUrl: '/assets/Pre-IPO%20DCF%20Valuation_Healthcare%20Company.pdf',
     tags: ['Valuation', 'Healthcare', 'IPO']
   },
   {
@@ -185,7 +185,7 @@ export const WORK_SAMPLES: WorkSample[] = [
     title: 'SaaS Financial Model',
     description: 'Detailed SaaS financial model focusing on recurring revenue, churn, and key unit economics.',
     type: 'EXCEL',
-    downloadUrl: './public/assets/SaaS_FInancial%20Model.xlsx',
+    downloadUrl: '/assets/SaaS_FInancial%20Model.xlsx',
     tags: ['SaaS', 'Metrics', 'Growth']
   },
   {
@@ -193,7 +193,7 @@ export const WORK_SAMPLES: WorkSample[] = [
     title: 'Valuation Manufacturing Company',
     description: 'Valuation report and analysis for a manufacturing entity, covering asset depreciation and inventory.',
     type: 'PDF',
-    downloadUrl: './public/assets/Valuation%20Manufacturing%20Company.pdf',
+    downloadUrl: '/assets/Valuation%20Manufacturing%20Company.pdf',
     tags: ['Manufacturing', 'Valuation', 'Assets']
   }
 ];
