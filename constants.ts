@@ -169,7 +169,7 @@ export const WORK_SAMPLES: WorkSample[] = [
     title: 'Market Sizing Model',
     description: 'Macro-enabled market sizing analysis to estimate Total Addressable Market (TAM) and serviceability.',
     type: 'EXCEL', 
-    downloadUrl: '/assets/Sample_Market_Sizing_Model.xlsm',
+    downloadUrl: '/assets/Sample_Market_Sizing_Model.xlsx',
     tags: ['Market Analysis', 'TAM', 'Strategy']
   },
   {
