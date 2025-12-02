@@ -1,0 +1,16 @@
+PLEASE DROP YOUR FILES HERE.
+
+Ensure your files are named exactly as follows for the download buttons to work:
+
+--- IMAGES ---
+1. headshot.jpeg
+
+--- RESUME ---
+2. John_Gu_Resume.pdf
+
+--- WORK SAMPLES (EXACT FILENAMES) ---
+3. Financial Model_Software Company.xlsx
+4. Sample Market Sizing Model.xlsm
+5. Pre-IPO DCF Valuation_Healthcare Company.pdf
+6. SaaS_FInancial Model.xlsx
+7. Valuation Manufacturing Company.pdf
